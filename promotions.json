@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "65cc9596f29b124669438459"
+  },
+  "url": "https://apexbankobjects.blob.core.windows.net/promo/CreditCard.jpg",
+  "type": "Credit-Card"
+},{
+  "_id": {
+    "$oid": "65cc9601f29b12466943845a"
+  },
+  "url": "https://apexbankobjects.blob.core.windows.net/promo/Insurance.jpg",
+  "type": "Insurance"
+},{
+  "_id": {
+    "$oid": "65cc9632f29b12466943845b"
+  },
+  "url": "https://apexbankobjects.blob.core.windows.net/promo/CarLoan.jpg",
+  "type": "Car-Loan"
+},{
+  "_id": {
+    "$oid": "65cc9658f29b12466943845c"
+  },
+  "url": "https://apexbankobjects.blob.core.windows.net/promo/HomeLoan.jpg",
+  "type": "Home-Loan"
+}]
